@@ -1,5 +1,3 @@
-# practice_php5
-practice all the features with codes that  php5 has
 # practice_php5 guide line
 ### practice_php5 project is for developer who wants to practice php5 features
 -----------------------
