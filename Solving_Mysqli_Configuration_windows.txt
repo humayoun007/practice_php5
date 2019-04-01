@@ -1,0 +1,15 @@
+For windows: 3 steps
+
+step1: Just need to give the ext folder path in php.ini
+
+here
+
+; Directory in which the loadable extensions (modules) reside.
+; http://php.net/extension-dir
+; extension_dir = "./"
+; On windows:
+ extension_dir = "C:\php7\ext"
+step 2: Remove the comment from
+
+extension=php_mysqli.dll
+step 3: restart the Apache server.
